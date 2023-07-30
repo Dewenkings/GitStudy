@@ -1,3 +1,0 @@
-# GitStudy
-ddw
-test
